@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=left><h1>📚 Tech Stack</h1></div>
 
-### OS & Board & Language & Framework 
+### OS & Board & Language
 
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -31,7 +31,20 @@ Here are some ideas to get you started:
   <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=c%2b%2b">
   <img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c">
   <img alt="gnubash" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img alt="CGI" src="https://img.shields.io/badge/Cgi-000000?style=for-the-badge&logo=CGI&logoColor=black">
+</p>
+
+### Framework & Library & Opensource
+<p align="center">
+  <img alt="touchGFX" src="https://img.shields.io/badge/touch GFX-0084ab?style=for-the-badge&logo=touchGFX&logoColor=white">
+  <img alt="ST_HAL_Driver" src="https://img.shields.io/badge/ST_HAL_Driver-03234B?style=for-the-badge&logo=ST_HAL_Driver&logoColor=white">
+  <img alt="JSON-C" src="https://img.shields.io/badge/JSON C-000000?style=for-the-badge&logo=json&logoColor=white">
+  <img alt="CGI" src="https://img.shields.io/badge/Lib_CGI-E95420?style=for-the-badge&logo=Lib_CGI&logoColor=white">
+  <img alt="CURL" src="https://img.shields.io/badge/Lib_CURL-073551?style=for-the-badge&logo=curl&logoColor=white">
+  </br>
+  <img alt="CMSIS" src="https://img.shields.io/badge/CMSIS-4EAA25?style=for-the-badge&logo=cmsis&logoColor=white">
+  <img alt="paho" src="https://img.shields.io/badge/paho-660066?style=for-the-badge&logo=mqtt&logoColor=white">
+  <img alt="Iptables" src="https://img.shields.io/badge/Iptables-1527c2?style=for-the-badge&logo=Iptables&logoColor=white">
+  <img alt="Lighttpd" src="https://img.shields.io/badge/lighttpd-555555?style=for-the-badge&logo=lighttpd&logoColor=white">
 </p>
 
 ### Tools
@@ -57,8 +70,6 @@ Here are some ideas to get you started:
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-ff2a44?style=for-the-badge&logo=opencv">
   <img alt="ROS" src="https://img.shields.io/badge/ROS-15253e?style=for-the-badge&logo=ROS">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  </br>
   <img alt="Atmega128" src="https://img.shields.io/badge/Atmega128-ff2a44?style=for-the-badge&logo=Atmega128&logoColor=white">
-  <img alt="paho" src="https://img.shields.io/badge/paho-660066?style=for-the-badge&logo=mqtt&logoColor=white">
-  <img alt="Iptables" src="https://img.shields.io/badge/Iptables-1527c2?style=for-the-badge&logo=Iptables&logoColor=white">
+  <img alt="OpenSSL" src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white">
 </p>
