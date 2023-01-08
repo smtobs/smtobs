@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <br/>
   <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=c%2b%2b">
   <img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c">
-  <img alt="Cmsis" src="https://img.shields.io/badge/Cmsis-1527c2?style=for-the-badge&logo=cmsis">
+  <img alt="gnubash" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img alt="CGI" src="https://img.shields.io/badge/Cgi-000000?style=for-the-badge&logo=CGI&logoColor=black">
 </p>
 
@@ -57,4 +57,5 @@ Here are some ideas to get you started:
   <img alt="ROS" src="https://img.shields.io/badge/ROS-15253e?style=for-the-badge&logo=ROS">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Atmega128" src="https://img.shields.io/badge/Atmega128-ff2a44?style=for-the-badge&logo=Atmega128&logoColor=white">
+  <img alt="Iptables" src="https://img.shields.io/badge/Iptables-1527c2?style=for-the-badge&logo=Iptables&logoColor=white">
 </p>
