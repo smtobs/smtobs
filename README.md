@@ -17,21 +17,29 @@ Here are some ideas to get you started:
 
 <div align=left><h1>📚 Tech Stack</h1></div>
 
-### OS & Board & Language
+### Language
+
+<p align="center">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b">
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+</p>
+  
+### OS
 
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="ubuntu" src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
   <img alt="OpenWrt" src="https://img.shields.io/badge/OpenWrt-0084ab?style=for-the-badge&logo=OpenWrt&logoColor=black">
   <img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-8ac55e?style=for-the-badge&logo=freertos">
-  <br/>
+</p>
+
+### Board
+
+<p align="center">
   <img alt="STM32F" src="https://img.shields.io/badge/STM32F429I_DISC1-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
   <img alt="raspberrypi" src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=black">
-  <br/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=c%2b%2b">
-  <img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c">
-  <img alt="gnubash" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 </p>
+
 
 ### Framework & Library & Opensource
 <p align="center">
@@ -42,7 +50,7 @@ Here are some ideas to get you started:
   <img alt="CURL" src="https://img.shields.io/badge/Lib_CURL-073551?style=for-the-badge&logo=curl&logoColor=white">
   </br>
   <img alt="CMSIS" src="https://img.shields.io/badge/CMSIS-4EAA25?style=for-the-badge&logo=cmsis&logoColor=white">
-  <img alt="paho" src="https://img.shields.io/badge/paho-660066?style=for-the-badge&logo=mqtt&logoColor=white">
+  <img alt="paho" src="https://img.shields.io/badge/paho-660066?style=for-the-badge&logo=mqtt&logoColor=black">
   <img alt="Iptables" src="https://img.shields.io/badge/Iptables-1527c2?style=for-the-badge&logo=Iptables&logoColor=white">
   <img alt="Lighttpd" src="https://img.shields.io/badge/lighttpd-555555?style=for-the-badge&logo=lighttpd&logoColor=white">
 </p>
@@ -62,10 +70,6 @@ Here are some ideas to get you started:
 ### Have used
 
 <p align="center">
-  <img alt="JAVA" src="https://img.shields.io/badge/java-f34b7d?style=for-the-badge&logo=JAVA">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <br/>
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-ff2a44?style=for-the-badge&logo=opencv">
   <img alt="ROS" src="https://img.shields.io/badge/ROS-15253e?style=for-the-badge&logo=ROS">
