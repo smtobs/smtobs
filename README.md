@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img alt="wireshark" src="https://img.shields.io/badge/wireshark-1679A7?logo=wireshark&logoColor=fff&style=for-the-badge">
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-3860c4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge">
   <img alt="CubeIDE" src="https://img.shields.io/badge/CubeIDE-0084ab?style=for-the-badge&logo=arm&logoColor=white">
@@ -56,6 +57,8 @@ Here are some ideas to get you started:
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-ff2a44?style=for-the-badge&logo=opencv">
   <img alt="ROS" src="https://img.shields.io/badge/ROS-15253e?style=for-the-badge&logo=ROS">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  </br>
   <img alt="Atmega128" src="https://img.shields.io/badge/Atmega128-ff2a44?style=for-the-badge&logo=Atmega128&logoColor=white">
+  <img alt="paho" src="https://img.shields.io/badge/paho-660066?style=for-the-badge&logo=mqtt&logoColor=white">
   <img alt="Iptables" src="https://img.shields.io/badge/Iptables-1527c2?style=for-the-badge&logo=Iptables&logoColor=white">
 </p>
