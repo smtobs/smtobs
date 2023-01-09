@@ -40,8 +40,7 @@ Here are some ideas to get you started:
   <img alt="raspberrypi" src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=black">
 </p>
 
-
-### Framework & Library & Opensource
+### Framework & Library & Open Source
 <p align="center">
   <img alt="touchGFX" src="https://img.shields.io/badge/touch GFX-0084ab?style=for-the-badge&logo=touchGFX&logoColor=white">
   <img alt="ST_HAL_Driver" src="https://img.shields.io/badge/ST_HAL_Driver-03234B?style=for-the-badge&logo=ST_HAL_Driver&logoColor=white">
@@ -64,16 +63,4 @@ Here are some ideas to get you started:
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge">
   <img alt="CubeIDE" src="https://img.shields.io/badge/CubeIDE-0084ab?style=for-the-badge&logo=arm&logoColor=white">
    <br/>
-</p>
-
-
-### Have used
-
-<p align="center">
-  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-ff2a44?style=for-the-badge&logo=opencv">
-  <img alt="ROS" src="https://img.shields.io/badge/ROS-15253e?style=for-the-badge&logo=ROS">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Atmega128" src="https://img.shields.io/badge/Atmega128-ff2a44?style=for-the-badge&logo=Atmega128&logoColor=white">
-  <img alt="OpenSSL" src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white">
 </p>
