@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img alt="CGI" src="https://img.shields.io/badge/Lib_CGI-E95420?style=for-the-badge&logo=Lib_CGI&logoColor=white">
   <img alt="CURL" src="https://img.shields.io/badge/Lib_CURL-073551?style=for-the-badge&logo=curl&logoColor=white">
   </br>
-  <img alt="paho" src="https://img.shields.io/badge/paho-660066?style=for-the-badge&logo=mqtt&logoColor=black">
+  <img alt="MQTT" src="https://img.shields.io/badge/paho-660066?style=for-the-badge&logo=mqtt&logoColor=black">
   <img alt="Lighttpd" src="https://img.shields.io/badge/lighttpd-555555?style=for-the-badge&logo=lighttpd&logoColor=white">
 </p>
 
