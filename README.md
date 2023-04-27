@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm an embedded software engineer in Korea.
+I'm an software engineer in Korea.
 <!--
 **smtobs/smtobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
