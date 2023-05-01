@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 😄 Side Project
+1. [출입 통제 시스템](https://github.com/smtobs/access_control_system)
+2. [스마트 가습기](https://github.com/smtobs/Smart_Humidifier.gitn)
+
+
 <div align=left><h1>📚 Tech Stack</h1></div>
 
 ### Language
