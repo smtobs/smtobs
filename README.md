@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 😄 Side Project
 1. [Wi-Fi 어댑터 드라이버](https://github.com/smtobs/esp32_adapter)
 2. [출입 통제 시스템](https://github.com/smtobs/access_control_system)
-3. [스마트 가습기](https://github.com/smtobs/Smart_Humidifier.gitn)
+3. [스마트 가습기](https://github.com/smtobs/Smart_Humidifier.git)
 
 
 <div align=left><h1>📚 Tech Stack</h1></div>
